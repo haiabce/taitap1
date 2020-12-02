@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 abcxyz
 
 Sua tren web
+=======
+abcxyz
+>>>>>>> 2f6aeb5 (add new)
