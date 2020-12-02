@@ -1,3 +1,7 @@
 test
 
+<<<<<<< HEAD
 sua tren may tinh
+=======
+tren web
+>>>>>>> 1ea4d72bd64a42dd28fad0c1517d246b992f5eb4
