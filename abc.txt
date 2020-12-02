@@ -1,4 +1,8 @@
 test
 
 
+<<<<<<< HEAD
 Sua tren web
+=======
+Sua tren may tinh
+>>>>>>> ff4fa98 (aaa)
