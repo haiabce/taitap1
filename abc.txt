@@ -1,7 +1,7 @@
 test
 
 <<<<<<< HEAD
-sua tren may tinh
-=======
+sua tren may tinhsdfsfs
+=======sdfsdfsdf
 tren web
->>>>>>> 1ea4d72bd64a42dd28fad0c1517d246b992f5eb4
+>>>>>>> 1ea4d72bd64a42dd28fad0c1517d246b992sdfsdff5eb4
